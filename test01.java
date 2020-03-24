@@ -19,6 +19,6 @@ package com.bw.test;
  */
 public class test01 {
 	public static void main(String[] args) {
-		System.out.println("hello Word");
+		System.out.println("hello Word how are you");
 	}
 }
